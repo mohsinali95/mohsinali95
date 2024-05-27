@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syed Mohsin Ali.
-- 👀 I’m interested in A lot of things.
+- 👀 I’m love learning and developing.
 - 🌱 I’m currently learning Data Sciences.
 
 <!---
